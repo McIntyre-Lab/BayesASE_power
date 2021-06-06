@@ -1,0 +1,6 @@
+FEATURE_ID	c1_num_reps	counts_c1_g1_total_rep1	counts_c1_g2_total_rep1	counts_c1_both_total_rep1	counts_c1_g1_total_rep2	counts_c1_g2_total_rep2	counts_c1_both_total_rep2	counts_c1_g1_total_rep3	counts_c1_g2_total_rep3	counts_c1_both_total_rep3	prior_c1_g1	prior_c1_g2	c1_flag_analyze
+fusion_id	3	114	147	94	150	155	80	183	149	65	0.8	0.8	1
+fusion_id	3	169	128	90	169	185	67	166	105	66	0.8	0.8	1
+fusion_id	3	216	143	76	127	147	83	120	153	75	0.8	0.8	1
+fusion_id	3	141	119	85	148	193	83	157	134	79	0.8	0.8	1
+fusion_id	3	146	154	120	184	140	80	180	150	61	0.8	0.8	1
