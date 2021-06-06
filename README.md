@@ -13,9 +13,10 @@ as implemented in [BayesASE](https://pypi.org/project/BayesASE/) with
 any number of biological replicates, reads, and levels of AI. It aggregates the 
 results across multiple simulated datasets to estimate and compare Type I error and power.
 
-###### Software requirements
+#### Software requirements
 <ul>
 <li>R >= 3.6.1 and "here" package</li>
 <li>python3 with pandas-1.2.4, matplotlib-3.4.1, seaborn-0.11.1, and numpy-1.18.1</li>
 </ul>
+
 A sample script to run the software is provided in the scripts/ folder. 
